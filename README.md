@@ -11,7 +11,6 @@ Welcome to the Adventure Website! This project is designed to provide users with
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
-- [-adventurewebsite](#-adventurewebsite)
 
 ## Features
 
@@ -26,14 +25,16 @@ Welcome to the Adventure Website! This project is designed to provide users with
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/adventure-website.git
+   git clone https://github.com/y/adventure-website.git
 
 2. Navigate to the project directory:
 
-cd adventure-website
+    ```bash
+    cd adventure-website
 
-1. Open with your code editor:
+3. Open with your code editor:
 
+    ```bash
     code .
 
 ## Usage
@@ -54,26 +55,6 @@ Contributions from the community are welcome! If you'd like to contribute to the
 
 5. Create a pull request on the main repository.
 
-
 ## License
 
 This project is licensed under the [MIT License].
-# -adventurewebsite
-
-This project is licensed under the MIT License.
-
-This is project of a website that offers users the opportunity to discover and plan on adventure activities and experiences.
-
-~The website will be designed to inspire users to explore new destinations and engage in thrilling activities, such as hiking, climbing, rafting, and more.
-
-~This website will have a visually stunning design with high-quality images and videos that showcase the destinations and activities offered. The website will be user-friendly and easy to navigate, with clear and concise information about each activity and destination.
-
-~The website may also include a blog section that provides users with useful tips and information about adventure travel, such as packing lists, safety tips, and insider advice on the best destinations and activities.
-
-~The Adventure Website will be built using HTML, CSS and hosted on a web server.
-
-~Overall, the Adventure Website project will be an exciting and informative resource for adventure travelers, providing them with the tools and information they need to plan and book their next adventure. The website will be visually appealing, user-friendly, and incorporate useful features that enhance the user experience.
-
-~Have a look at it!
-
-~Open to collaborate, make corrections and even add more features where necessary.
